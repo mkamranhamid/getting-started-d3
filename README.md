@@ -1,1 +1,2 @@
-# getting-started-d3
+For motivation
+https://github.com/d3/d3/wiki/gallery

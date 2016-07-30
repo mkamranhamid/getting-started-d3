@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align:center;
+    font-family: "Arial", sans-serif;
+}
+.chart{
+    background-color: #6494ed;
+    border: 1px solid #000;
+}
+.bar{
+    fill: #2b324e;
+    border: 1px solid #000;
+    shape-rendering: crispEdges;
+}
+.bar-label{
+
+    fill: #fff;
+}

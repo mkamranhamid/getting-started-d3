@@ -1,0 +1,38 @@
+{
+  "-KB6kHXsYFiU6bPJzAXh" : {
+    "email" : "abc1@abc.com",
+    "name" : "abc",
+    "age" : 150,
+    "role" : "Store",
+    "stores" : {
+      "1028" : true
+    }
+  },
+  "-KB8CakCka8oBk18EvYl" : {
+    "email" : "hello@abc.com",
+    "name" : "hello",
+    "age" : 50,
+    "role" : "Store",
+    "stores" : {
+      "Training001" : true
+    }
+  },
+  "-KB8GTQPwJeqyPKtbZdP" : {
+      "email" : "abc3@abc.com",
+      "name" : "abc3",
+    "age" : 90,
+      "role" : "Store",
+      "stores" : {
+        "Training001" : true
+      }
+  },
+  "-KB8KlyGrTj7zhGg97jQ" : {
+      "email" : "test101@test.com",
+      "name" : "test101",
+      "age" : 100,
+      "role" : "Store",
+      "stores" : {
+        "Training001" : true
+      }
+  }
+}
